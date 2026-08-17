@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4B32C3&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+Multi-Agent+Systems;Turning+LLMs+into+real-world+products;Ex-Cybersecurity+%7C+Now+deep+in+AI+Engineering;200%2B+DSA+problems+solved+%F0%9F%94%A5" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4B32C3&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+Multi-Agent+Systems;Turning+LLMs+into+real-world+products;Now+deep+in+AI+Engineering;600%2B+DSA+problems+solved+%F0%9F%94%A5" alt="Typing SVG"/>
 
 <br/><br/>
 
