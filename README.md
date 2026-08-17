@@ -1,14 +1,18 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWp5cHFzMGRiNXY4dWljcDh6a3c1ZzRuMWV6dTVtMjlwZ2dpMHJxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FQ8vWwIkUVqll3dW3w/giphy.gif" alt="AI GIF" width="600"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1C3C3C,100:4B32C3&height=220&section=header&text=Anubhav%20Kumar%20Thakur&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20Research-Oriented%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4B32C3&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+%26+Multi-Agent+Systems;Turning+LLMs+into+real-world+products;Ex-Cybersecurity+%7C+Now+deep+in+AI+Engineering;200%2B+DSA+problems+solved+%F0%9F%94%A5" alt="Typing SVG"/>
+
+<br/><br/>
+
+<a href="mailto:thakuranubhav867@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anubhav-thakur-b6366b229/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=anubhavthakur&style=flat-square&color=4B32C3&label=Profile+Views"/>
+
 </div>
-<br>
-
-<h1 align="center">Hi 👋, I'm Anubhav Kumar Thakur</h1>
-<h3 align="center">🚀 AI Engineer | Machine Learning Enthusiast | Research-Oriented Developer</h3>
-
-<p align="center">
-I build intelligent systems that combine Machine Learning, LLMs, and scalable software engineering to solve real-world problems.
-</p>
 
 ---
 
